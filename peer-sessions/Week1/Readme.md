@@ -15,3 +15,18 @@
     * 범블봇 주제 정하기
         - 쿼리 기반 노래 제목 반환
         - 사용자 쿼리와 IRQA 챗봇 답변을 concat하여 추천(미정)
+ 
+ * [화요일 회의(210427)](https://github.com/VumBleBot/Group-Activity/tree/main/peer-sessions/Week1/210427.md)
+    * 정보 탐색 결과 공유
+      - (지영) follow-up 정리
+      - (건모) 수요일 쯤 survey 논문 정리해서 설명
+      - (수연) Reading Wikipedia to Answer Open Domain Question 논문 요약
+         - feature vector 어떻게 추가되는건지 코드 보면서 더 알아보기
+      - (성익) 수요일까지 베이스라인 코드 tokenizing 부분 + special token을 넣을때 어떤 방식으로 임베딩되는지
+         - wordpiece vs sentensepiece 차이
+      - (종헌) 기초 모델 논문 + 토크나이저 리뷰 중 - Transformer까지 보고 공유
+    * 베이스라인 코드 리뷰
+      - Group-Activity repo에 baseline 코드 커밋해서 질문 생기면 issue 활용
+    * 베이스라인 기준 모델 비교 결과
+      - XML-roberta-large가 가장 높은 EM (2.50)
+      - mrm8488/bert-multi-cased-finetuned-xquadv1가 가장 높은 F1 (13.86)
