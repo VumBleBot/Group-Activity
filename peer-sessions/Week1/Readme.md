@@ -30,3 +30,15 @@
     * 베이스라인 기준 모델 비교 결과
       - XML-roberta-large가 가장 높은 EM (2.50)
       - mrm8488/bert-multi-cased-finetuned-xquadv1가 가장 높은 F1 (13.86)
+
+* [수요일 회의(210428)](https://github.com/VumBleBot/Group-Activity/tree/main/peer-sessions/Week1/210428.md)
+    * 정보 탐색 결과 공유
+        - (지영) BM25 코드, Tokenizer 관련 토론 게시글 리뷰
+        - (종헌) Transformer 코드 리뷰
+        - (성익) Tokenizer 정리
+        - (수연) Cluster-Former(2020) SOTA 논문 리뷰
+        - (건모) ODQA(OpenQA) Survey 논문 리뷰
+    * 베이스라인 파트 분배
+        - retriever: 2명 - 성익,수연
+        - train, inference : 2명 - 건모,지영
+        - utils_qa : 1명 - 종헌
