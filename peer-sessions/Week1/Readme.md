@@ -42,3 +42,17 @@
         - retriever: 2명 - 성익,수연
         - train, inference : 2명 - 건모,지영
         - utils_qa : 1명 - 종헌
+
+* [목요일 회의(210429)](https://github.com/VumBleBot/Group-Activity/tree/main/peer-sessions/Week1/210429.md)
+    * 정보 탐색 결과 공유
+        - (종헌) RoBERTa, XLM
+        - (지영) Follow up (faiss)
+    * 1주차 결산(issue 정리)
+        - retriever: 2명 - 성익,수연
+        - train, inference : 2명 - 건모,지영
+        - utils_qa : 1명 - 종헌
+    * 범블봇 주제 및 아이디어 탐색
+        - 어려운 점들 토의하였고 추가 논의 필요
+        - 아이디어 있으면 슬랙에 올리기
+    * [ETRI KorBERT 신청하기](https://aiopen.etri.re.kr/service_dataset.php)
+    * 내일(4/30) 베이스라인 담당 파트 리뷰
