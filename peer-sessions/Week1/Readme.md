@@ -56,3 +56,8 @@
         - 아이디어 있으면 슬랙에 올리기
     * [ETRI KorBERT 신청하기](https://aiopen.etri.re.kr/service_dataset.php)
     * 내일(4/30) 베이스라인 담당 파트 리뷰
+
+* [금요일 회의(210430)](https://github.com/VumBleBot/Group-Activity/tree/main/peer-sessions/Week1/210430.md)
+    * 베이스라인 코드 리뷰
+        - 각 파트별로 주석 제공
+        - 이해 안가는 코드 공유 후 논의
