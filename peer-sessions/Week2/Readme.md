@@ -19,3 +19,12 @@
             - **\<refactor, feat\> `retriever refactoring + DPR 클래스 구현` -- 수영, 지영
                 - embedding 방식을 내부에서 분기처리하여 하위호출하는 general retriever로 refactoring
                 - encoder 학습 및 weight 저장하는 DPR class 구현
+                
+* [화요일 회의(210504)](https://github.com/VumBleBot/Group-Activity/tree/main/peer-sessions/Week2/210504.md)
+    - 성예닮 멘토님 킥오프 미팅
+    - 코드리뷰
+        - retriever 리팩토링
+            - dense embedding으로 구조화 -- 지영(+건모)
+            - bm25 구현 -- 수연(+성익)
+        - reader 리팩토링 -- 종헌
+        - top-k sampling -> reader+retriever 리팩토링 끝날때까지 잠깐 보류
