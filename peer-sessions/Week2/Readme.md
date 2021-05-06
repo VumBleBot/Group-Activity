@@ -28,3 +28,8 @@
             - bm25 구현 -- 수연(+성익)
         - reader 리팩토링 -- 종헌
         - top-k sampling -> reader+retriever 리팩토링 끝날때까지 잠깐 보류
+
+* [목요일 회의(210506)](https://github.com/VumBleBot/Group-Activity/tree/main/peer-sessions/Week2/210506.md)
+    - 이슈 정리
+    - 베이스라인 코드 논의할 것
+    - 이번주 목표치 설정
