@@ -33,3 +33,17 @@
     - 이슈 정리
     - 베이스라인 코드 논의할 것
     - 이번주 목표치 설정
+
+* [금요일 회의(210507)](https://github.com/VumBleBot/Group-Activity/tree/main/peer-sessions/Week2/210507.md)
+    - EDA
+        - (건모) KorQUaD EDA
+        - (성익) wikidocs EDA
+    - (지영) Hybrid Retriever
+    - (수연) ground_truth label 추가한 데이터셋
+        - 이슈로 정확히 커뮤니케이션해가며 논의 더 해보기로!
+    - (종헌) large model 성능 공유
+    - Todo
+        - (수연, 성익) wiki preprocessing
+        - 논문 위주로 휴리스틱한 돌파구 찾아보기
+        - (건모, 성익) Top-k reader bulk
+        - (건모) 수연, 지영 pull request 리팩토링
