@@ -22,7 +22,7 @@
 
 ### Week3
 
-[📋 Week3](#Week3)  
+[📋 Week3](https://github.com/VumBleBot/Group-Activity/tree/main/peer-sessions/Week3)  
 
 ### Week4
 
