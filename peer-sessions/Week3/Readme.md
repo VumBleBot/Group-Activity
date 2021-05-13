@@ -15,3 +15,15 @@
         - Retriever : 수연, 지영 + 건모
         - Reader : 종헌
         - 앙상블 파이프라인은 4주차로!
+
+* [수요일 회의(210512)](https://github.com/VumBleBot/Group-Activity/tree/main/peer-sessions/Week3/210512.md)
+    - Wiki data에서 특수문자 처리 방법
+    - fuzzy ratio 기준 관련 논의 
+    - ETRI dataset 활용 방안
+    - Reader 모델 발전 방향
+
+* [목요일 회의(210513)](https://github.com/VumBleBot/Group-Activity/tree/main/peer-sessions/Week3/210513.md)
+    - 리더보드의 채점 기준 문제
+    - Reader 모델 head로 LSTM 활용
+    - PR 확인 및 Merge
+    - 조교님께서 주신 문제에 대한 토의
