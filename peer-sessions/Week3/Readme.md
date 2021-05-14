@@ -27,3 +27,11 @@
     - Reader 모델 head로 LSTM 활용
     - PR 확인 및 Merge
     - 조교님께서 주신 문제에 대한 토의
+    
+* [금요일 회의(210514)](https://github.com/VumBleBot/Group-Activity/tree/main/peer-sessions/Week3/210514.md)
+    - 3주차 이슈 정리
+    - PR 논의
+    - 실험 논의
+    - 역할분배
+    - 다음주 오프라인 모임
+    - 부캠회고 작성
